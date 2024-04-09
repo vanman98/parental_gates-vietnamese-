@@ -1,0 +1,22 @@
+name: parental_gates
+description: Safeguard your child online with a mandated parental gate in Kids category apps, as per App Store guidelines. This feature ensures children can't access commerce-related activities without parental consent. To enhance security, questions and answers are randomized, preventing memorization. Importantly, this requirement differs from regulations governing parental consent for data collection, emphasizing a secure and age-appropriate online experience for young users.
+version: 0.0.3
+homepage: https://github.com/deep260201/parental_gates
+repository: https://github.com/deep260201/parental_gates
+issue_tracker: https://github.com/deep260201/parental_gates/issues
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+
+
